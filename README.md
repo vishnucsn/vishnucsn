@@ -4,7 +4,7 @@ I am an exida-certified Functional Safety Practitioner (ISO 26262), with prior e
 
 Programming language expertise: C, C++, and Python.
 
-Currently exploring: Linux kernel internals, device drivers, Zephyr RTOS, virtualization on RISC-V, and OpenBMC.
+Currently exploring: Linux Kernel Internals, Linux Device Drivers, RTOS (Freertos/Zephyr), Virtualization
 
 <!---
 vishnucsn/vishnucsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
